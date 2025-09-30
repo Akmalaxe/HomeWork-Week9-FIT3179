@@ -29,7 +29,7 @@
       "mark": {"type": "geoshape", "fill": "skyblue"}
     },
     {
-      "data": {"url": "sample_submission.csv"},
+      "data": {"url": "https://raw.githubusercontent.com/Akmalaxe/HomeWork-Week9-FIT3179/refs/heads/main/sample_submission.csv"},
       "transform": [
         {
           "lookup": "Country Name",
