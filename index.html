@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>A Global Comparison of GDP Per Capita</title>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 20px;">
+  
+  <div id="vis"></div>
+
+  <script type="text/javascript">
+    vegaEmbed('#vis', 'GDP_Map.json').then(function(result) {
+      console.log("Map loaded successfully!");
+    }).catch(console.error);
+  </script>
+
+</body>
+</html>

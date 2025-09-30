@@ -1,0 +1,267 @@
+Country Name,Year
+Afghanistan,1.9883
+Albania,3.5665
+Algeria,3.0417
+American Samoa,3.1007
+Andorra,3.0965
+Angola,3.4438
+Antigua and Barbuda,3.1843
+Argentina,1.7194
+Armenia,3.64
+Aruba,3.3591
+Australia,1.7024
+Austria,0.6196
+Azerbaijan,2.6383
+"Bahamas, The",2.6997
+Bahrain,1.7381
+Bangladesh,2.6706
+Barbados,0.3775
+Belarus,0.9039
+Belgium,1.9838
+Belize,2.8308
+Benin,2.0363
+Bermuda,1.5214
+Bhutan,3.7321
+Bolivia,0.7741
+Bosnia and Herzegovina,0.1612
+Botswana,3.3636
+Brazil,3.7218
+British Virgin Islands,3.1044
+Brunei Darussalam,0.972
+Bulgaria,1.0602
+Burkina Faso,1.3903
+Burundi,3.5022
+Cabo Verde,3.815
+Cambodia,1.7261
+Cameroon,2.309
+Canada,0.6713
+Cayman Islands,2.4982
+Central African Republic,0.5618
+Chad,3.2276
+Channel Islands,3.7357
+Chile,3.3775
+China,3.6114
+Colombia,1.7142
+Comoros,0.8745
+"Congo, Dem. Rep.",3.1374
+"Congo, Rep.",2.0828
+Costa Rica,3.0934
+Cote d'Ivoire,0.4068
+Croatia,2.3344
+Cuba,0.7592
+Curacao,0.3432
+Cyprus,1.8962
+Czechia,0.0264
+Denmark,3.4142
+Djibouti,2.4756
+Dominica,0.6088
+Dominican Republic,1.9501
+Ecuador,2.0368
+"Egypt, Arab Rep.",2.3987
+El Salvador,0.0258
+Equatorial Guinea,0.6034
+Eritrea,0.4745
+Estonia,0.5767
+Eswatini,0.1152
+Ethiopia,0.7386
+Faroe Islands,2.2046
+Fiji,2.2302
+Finland,2.2222
+France,3.0405
+French Polynesia,2.9489
+Gabon,1.9826
+"Gambia, The",2.652
+Georgia,0.3485
+Germany,2.4139
+Ghana,2.8082
+Gibraltar,0.4844
+Greece,0.1399
+Greenland,1.4121
+Grenada,2.3211
+Guam,2.0576
+Guatemala,0.1144
+Guinea,2.9007
+Guinea-Bissau,3.8829
+Guyana,3.0529
+Haiti,0.0377
+Honduras,0.5321
+"Hong Kong SAR, China",3.531
+Hungary,3.3166
+Iceland,1.9314
+India,3.4347
+Indonesia,2.3194
+"Iran, Islamic Rep.",2.1095
+Iraq,2.7175
+Ireland,2.4688
+Isle of Man,1.6748
+Israel,0.0676
+Italy,3.1243
+Jamaica,0.7319
+Japan,2.9994
+Jordan,0.8349
+Kazakhstan,0.0358
+Kenya,0.0205
+Kiribati,1.3369
+"Korea, Dem. People's Rep.",3.9586
+"Korea, Rep.",0.6048
+Kosovo,0.721
+Kuwait,1.0209
+Kyrgyz Republic,3.9456
+Lao PDR,2.0444
+Latvia,2.1868
+Lebanon,0.4876
+Lesotho,2.9636
+Liberia,1.6249
+Libya,1.3948
+Liechtenstein,3.3439
+Lithuania,3.792
+Luxembourg,0.4806
+"Macao SAR, China",2.9609
+Madagascar,0.2622
+Malawi,3.0479
+Malaysia,1.0938
+Maldives,0.9299
+Mali,3.8406
+Malta,3.4421
+Marshall Islands,3.4787
+Mauritania,1.8878
+Mauritius,1.2954
+Mexico,2.6002
+"Micronesia, Fed. Sts.",2.2424
+Moldova,1.0891
+Monaco,1.4611
+Mongolia,3.8058
+Montenegro,1.7614
+Morocco,2.1554
+Mozambique,1.0257
+Myanmar,1.781
+Namibia,3.6941
+Nauru,2.7372
+Nepal,0.5097
+Netherlands,1.8784
+New Caledonia,1.3083
+New Zealand,0.6882
+Nicaragua,1.9523
+Niger,2.839
+Nigeria,3.0237
+North Macedonia,2.5848
+Northern Mariana Islands,1.6333
+Norway,2.2972
+Oman,1.6937
+Pakistan,2.2125
+Palau,3.8213
+Panama,0.2051
+Papua New Guinea,2.3486
+Paraguay,2.9395
+Peru,3.8037
+Philippines,1.0273
+Poland,1.7352
+Portugal,1.6232
+Puerto Rico,0.5638
+Qatar,0.1633
+Romania,0.9818
+Russian Federation,1.615
+Rwanda,2.2073
+Samoa,3.3192
+San Marino,1.3112
+Sao Tome and Principe,0.9797
+Saudi Arabia,2.3265
+Senegal,1.7097
+Serbia,1.9269
+Seychelles,0.2877
+Sierra Leone,0.7792
+Singapore,0.0108
+Sint Maarten (Dutch part),0.679
+Slovak Republic,1.5858
+Slovenia,3.4961
+Solomon Islands,3.0887
+Somalia,2.7062
+South Africa,1.6355
+South Sudan,2.4177
+Spain,1.4111
+Sri Lanka,1.3314
+St. Kitts and Nevis,3.9985
+St. Lucia,3.5151
+St. Martin (French part),0.4163
+St. Vincent and the Grenadines,1.3971
+Sudan,3.1506
+Suriname,3.3737
+Sweden,1.1703
+Switzerland,3.6638
+Syrian Arab Republic,2.3642
+Tajikistan,0.4866
+Tanzania,3.2408
+Thailand,1.2535
+Timor-Leste,0.6067
+Togo,2.7748
+Tonga,2.6458
+Trinidad and Tobago,2.1539
+Tunisia,2.3084
+Turkiye,0.5375
+Turkmenistan,3.0648
+Turks and Caicos Islands,2.733
+Tuvalu,3.8095
+Uganda,0.7637
+Ukraine,1.445
+United Arab Emirates,2.4883
+United Kingdom,1.5293
+United States,3.7429
+Uruguay,3.772
+Uzbekistan,0.8266
+Vanuatu,2.1542
+"Venezuela, RB",1.9877
+Viet Nam,1.9139
+Virgin Islands (U.S.),2.8481
+West Bank and Gaza,2.3307
+"Yemen, Rep.",0.7574
+Zambia,2.0201
+Zimbabwe,3.1843
+Africa Eastern and Southern,3.4521
+Africa Western and Central,1.0475
+Arab World,0.5046
+Caribbean small states,3.513
+Central Europe and the Baltics,0.466
+Early-demographic dividend,3.4099
+East Asia & Pacific,2.8085
+East Asia & Pacific (excluding high income),0.7669
+East Asia & Pacific (IDA & IBRD countries),0.6472
+Euro area,2.3932
+Europe & Central Asia,1.5765
+Europe & Central Asia (excluding high income),3.6177
+Europe & Central Asia (IDA & IBRD countries),2.9189
+European Union,2.9473
+Fragile and conflict affected situations,0.5474
+Heavily indebted poor countries (HIPC),0.5747
+High income,3.6068
+IBRD only,3.7362
+IDA & IBRD total,3.5306
+IDA blend,3.5756
+IDA only,2.8146
+IDA total,0.1865
+Late-demographic dividend,0.5812
+Latin America & Caribbean,2.0517
+Latin America & Caribbean (excluding high income),2.458
+Latin America & the Caribbean (IDA & IBRD countries),3.109
+Least developed countries: UN classification,3.6559
+Low & middle income,1.9945
+Low income,1.8011
+Lower middle income,0.7083
+Middle East & North Africa,0.3335
+Middle East & North Africa (excluding high income),1.5087
+Middle East & North Africa (IDA & IBRD countries),0.3104
+Middle income,2.5766
+North America,3.2165
+Not classified,3.5896
+OECD members,0.4166
+Other small states,2.7342
+Pacific island small states,3.6513
+Post-demographic dividend,0.0194
+Pre-demographic dividend,0.1955
+Small states,1.2502
+South Asia,1.4871
+South Asia (IDA & IBRD),1.4418
+Sub-Saharan Africa,0.1476
+Sub-Saharan Africa (excluding high income),1.6807
+Sub-Saharan Africa (IDA & IBRD countries),1.3454
+Upper middle income,3.6815
+World,3.8924
